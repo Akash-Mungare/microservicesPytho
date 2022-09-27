@@ -1,0 +1,19 @@
+1663573778621	geckodriver	INFO	Listening on 127.0.0.1:57428
+1663573781734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57429" "-no-remote" "-profile" "C:\\Users\\SenseGiz\\AppData\\Local\\Temp\\rust_mozprofilePOzGwK"
+1663573782210	Marionette	INFO	Marionette enabled
+1663573782216	Marionette	INFO	Listening on port 57440
+WebDriver BiDi listening on ws://localhost:57429
+1663573782367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SenseGiz\\AppData\\Local\\Temp\\rust_mozprofilePOzGwK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57429/devtools/browser/7585d770-005b-41d6-8d29-a9b16d0fbabe
+1663573790923	Marionette	INFO	Stopped listening on port 57440
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\SenseGiz\AppData\Local\Temp\rust_mozprofilePOzGwK\protections.sqlite
+1663583752609	geckodriver	INFO	Listening on 127.0.0.1:50095
+1663583755765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50096" "-no-remote" "-profile" "C:\\Users\\SenseGiz\\AppData\\Local\\Temp\\rust_mozprofile7kXEnQ"
+1663583756244	Marionette	INFO	Marionette enabled
+1663583756249	Marionette	INFO	Listening on port 50105
+WebDriver BiDi listening on ws://localhost:50096
+1663583756391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SenseGiz\\AppData\\Local\\Temp\\rust_mozprofile7kXEnQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50096/devtools/browser/44ef5a56-63a6-4465-9e5c-3e45c3630c20
+1663583764042	Marionette	INFO	Stopped listening on port 50105

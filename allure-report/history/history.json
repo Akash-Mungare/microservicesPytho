@@ -1,0 +1,1 @@
+{"9ea4c15063ac4d709c853b78ecca940b":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"f14b9b7d72a7b9b3","reportUrl":"http://localhost:8080/job/microServicesPython/10/allure/#testresult/f14b9b7d72a7b9b3","status":"passed","time":{"start":1664256463824,"stop":1664256535636,"duration":71812}}]}}
