@@ -94,6 +94,7 @@ class TestCase:
                 break
             else:
                 # print(('==============>>>>>>>>>>>>>>>>>> else:',i).encode('utf8'))
+                # print(null)
                 continue
         
         """   Delete created Find  """
