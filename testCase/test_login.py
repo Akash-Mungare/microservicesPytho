@@ -97,7 +97,7 @@ class TestCase:
                 continue
         
         """   Delete created Find  """
-        time.sleep(4)
+        time.sleep(2)
 
 
         # time.sleep(2)
